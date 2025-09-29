@@ -23,5 +23,5 @@ Me apasiona la enseñanza, la innovación tecnológica y el desarrollo de soluci
 ---
 
 ## 📫 Conectemos  
-- GitHub: [Mi perfil](https://github.com/tuusuario)  
+- GitHub: [Mi perfil](https://github.com/Profesorleonardo)  
 - LinkedIn: [Mi LinkedIn](https://linkedin.com/in/tuusuario)  
